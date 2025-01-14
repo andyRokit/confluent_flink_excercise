@@ -1,0 +1,11 @@
+id,datetime,duration,title,genres,release_date,movie_id,user_id
+58773,2017-01-01 01:15:09,0.0,"Angus, Thongs and Perfect Snogging","Comedy, Drama, Romance",2008-07-25,26bd5987e8,1dea19f6fe
+58774,2017-01-01 13:56:02,0.0,The Curse of Sleeping Beauty,"Fantasy, Horror, Mystery, Thriller",2016-06-02,f26ed2675e,544dcbc510
+58775,2017-01-01 15:17:47,10530.0,London Has Fallen,"Action, Thriller",2016-03-04,f77e500e7a,7cbcc791bf
+58776,2017-01-01 16:04:13,49.0,Vendetta,"Action, Drama",2015-06-12,c74aec7673,ebf43c36b6
+58777,2017-01-01 19:16:37,0.0,The SpongeBob SquarePants Movie,"Animation, Action, Adventure, Comedy, Family, Fantasy",2004-11-19,a80d6fc2aa,a57c992287
+58778,2017-01-01 19:21:37,0.0,London Has Fallen,"Action, Thriller",2016-03-04,f77e500e7a,c5bf4f3f57
+58779,2017-01-01 19:43:06,4903.0,The Water Diviner,"Drama, History, War",2014-12-26,7165c2fc94,8e1be40e32
+58780,2017-01-01 19:44:38,0.0,Angel of Christmas,"Comedy, Romance",2015-11-29,b2f02f2689,892a51dee1
+58781,2017-01-01 19:46:24,3845.0,Ratter,"Drama, Horror, Thriller",2016-02-12,c39aae36c3,cff8ea652a
+58782,2017-01-01 20:27:04,0.0,The Book of Life,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",2014-10-17,97183b9136,bf53608c70

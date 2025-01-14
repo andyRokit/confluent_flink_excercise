@@ -1,0 +1,41 @@
+{
+  "type": "record",
+  "name": "VodClick",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "datetime",
+      "type": "string"
+    },
+    {
+      "name": "duration",
+      "type": "float"
+    },
+    {
+      "name": "title",
+      "type": "string"
+    },
+    {
+      "name": "genres",
+      "type": {
+        "type": "array",
+        "items": "string"
+      }
+    },
+    {
+      "name": "release_date",
+      "type": "string"
+    },
+    {
+      "name": "movie_id",
+      "type": "string"
+    },
+    {
+      "name": "user_id",
+      "type": "string"
+    }
+  ]
+}

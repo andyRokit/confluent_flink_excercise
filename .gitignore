@@ -1,0 +1,93 @@
+# Gradle build directory
+/build/
+/.gradle/
+
+# IDEA project files
+/.idea/
+/*.iml
+
+# Eclipse project files
+/.classpath
+/.project
+/.settings/
+
+# Maven project files
+/target/
+
+# Intellij generated files
+/out/
+
+# VS Code files
+/.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE specific files
+*.swp
+*.swo
+*~
+# Windows thumbnail cache
+Thumbs.db
+
+# Compiled Java classes
+*.class
+
+# Log files
+*.log
+
+# Java Web Application
+/.factorypath
+/.springBeans
+
+# Gradle wrapper
+/gradle/wrapper/gradle-wrapper.properties
+
+# Gradle log files
+*.log
+
+# Generated files
+/.gradle/
+/build/
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse specific
+/.settings/
+/.metadata/.plugins/
+/bin/
+/tmp/
+/*.tmp
+/*.bak
+/*.swp
+/.metadata/.plugins/
+
+# NetBeans specific
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nbm/
+
+# IntelliJ IDEA specific
+/.idea/
+/*.iws
+/out/
+
+# VS Code specific
+/.vscode/
+
+# MacOS specific
+.DS_Store
