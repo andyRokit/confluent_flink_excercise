@@ -30,8 +30,8 @@ public class ClientExample {
       String topic = "netflix_audience_behaviour_uk_movies";
       final Properties config = readConfig("client.properties");
 
-      // produce(topic, config);
-      consume(topic, config);
+      produce(topic, config);
+      // consume(topic, config);
     } catch (IOException e) {
       e.printStackTrace();
     }
@@ -61,7 +61,7 @@ public class ClientExample {
 
     Producer<Integer, GenericRecord> producer = new KafkaProducer<>(config);
 
-    try (BufferedReader reader = new BufferedReader(new FileReader("src/data/vodclickstream_uk_movies_03_sample.csv"))) {
+    try (BufferedReader reader = new BufferedReader(new FileReader("src/data/vodclickstream_uk_movies_03.csv"))) {
 
       CSVFormat csvFormat = CSVFormat.DEFAULT.builder()
         .setHeader("id","datetime","duration","title","genres","release_date","movie_id","user_id")
